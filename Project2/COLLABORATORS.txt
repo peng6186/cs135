@@ -1,0 +1,16 @@
+(This is an example. Please edit accordingly.)
+
+Name: Pengcheng Xu
+
+I spent 15 hours on this project
+
+Resources I resort to: 
+* https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+* https://medium.com/@annabiancajones/sentiment-analysis-of-reviews-text-pre-processing-6359343784fb
+* https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+* https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+* the Course's Piazza 
+
+
+
+

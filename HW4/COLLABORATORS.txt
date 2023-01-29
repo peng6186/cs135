@@ -1,0 +1,10 @@
+
+Name: Pengcheng Xu
+
+I spent 8 hours on this problem ( 5 hours Q1-Q4,  2 hours on Q5, and the rest of the time just reading and doing some research on documentation, and Piazza )
+
+I sought help from SKlearn, and Matplotlib documentation.
+
+I mainly search how to use neural network by sklearn, and corresponding hyper parameters. 
+
+

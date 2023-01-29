@@ -1,0 +1,10 @@
+
+Name: Pengcheng Xu
+
+I spent 20 hours on this problem ( 5 hours Q1-Q4,  8 hours on Q5, and the rest of the time just reading and doing some research on documentation )
+
+I sought help from Sklearn, and Matplotlib documentation.
+
+I mainly search What ROC and AUC means, and how to use sklearn corresponding models. 
+And how to add and adjust many components on plowing graph.
+

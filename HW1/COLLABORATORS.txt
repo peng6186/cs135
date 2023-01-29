@@ -1,0 +1,15 @@
+(This is an example. Please edit accordingly.)
+
+Name: Pengcheng Xu
+
+I spent 8 hours on this problem (1 on Prob. 1 and 3 on Prob. 2)
+- I spent 2 or 3 hours on the problems, but before that I spent 4 or 5 hours reviewing Numpy, since     	I'm kind of rusty with Python and Numpy
+
+I sought help from Prof. Huckleberry.
+
+- I sought help from the Numpy documentation from the link provided by HW description
+
+We talked about the definition of Euclidean distance.
+
+- That documentation provide a very good hint on how to calculate Euclidean distance (i.e. vector broadcasting), which helps a lot.
+

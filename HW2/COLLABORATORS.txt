@@ -1,0 +1,11 @@
+
+Name: Pengcheng Xu
+
+I spent 8 hours on this problem ( 2 hours crash learn on Numpy, Pandas and Matplotlib, 2 hr on Prob 1
+
+3 hr on Prob 2 , and 1 hr on Prob3 )
+
+I sought help from Numpy, Pandas, and Matplotlib documentation.
+
+I main search how to covert Numpay.ndarray to Pandas.DataFrame. And how to add and adjust many components on plowing graph.
+

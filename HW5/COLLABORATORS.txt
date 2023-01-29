@@ -1,0 +1,10 @@
+
+Name: Pengcheng Xu
+
+I spent 10 hours on this problem ( 5 hours Q1 & Q2,  2 hours on Q3, and the rest of the time just reading and doing some research on documentation, and Piazza )
+
+I sought help from SKlearn, and Sklearn.tree documentation.
+
+I mainly search how to use DecisionClassifier and what each parameter means. 
+
+
